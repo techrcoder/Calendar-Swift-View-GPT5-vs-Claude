@@ -3,6 +3,8 @@
   This repo shows the code generated for SwiftUI based app for a fully functioning Calendar view with a range of needs.
 </i>
 
+<br> <br>
+
 ChatGPT discussion to generate a necessary prompt with structured details for LLM to best understand instructions:
 https://chatgpt.com/share/68975dcc-5938-8007-902f-945a99085a7c
 
